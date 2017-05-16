@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>wsfb4j</label>
+	</settings>
+	<users>
+		<user>
+			<path>wsfb4j.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>pro4j\pro4j.jcp</path>
+		</project>
+	</projects>
+</workspace>
